@@ -4,4 +4,4 @@ test = speedtest.Speedtest()
 download = test.download()
 upload = test.upload()
 
-print(f"Download Speed : {download} Upload Speed : {upload}" )
+print(f"Download Speed : {download}\n Upload Speed : {upload}" )
